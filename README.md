@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ken
+- 👀 I’m interested in Javascript, Python and Html
+- 🌱 I’m currently learning Html for fun while also learning Python, .NET and Databasev(MySQL) on my campus currently
+- 💞️ I’m looking to collaborate on making some projects to sharpen our knowledge
+- 📫 How to reach me : Instagram : @niko_kenara | Twitter : @NikoKenara | Email : nikokenara.biz@gmail.com
