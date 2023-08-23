@@ -2,4 +2,4 @@
 - 👀 I’m interested in Javascript, Python and Html
 - 🌱 I’m currently learning Html for fun while also learning Python, .NET and Database (MySQL) on my campus currently
 - 💞️ I’m looking to collaborate on making some projects to sharpen our knowledge
-- 📫 How to reach me : Instagram : @niko_kenara | Linkedin : Muhammad Niko Kenara | Email : nikokenara@gmail.com
+- 📫 How to reach me : Instagram : @niko_kenara | Linkedin : https://www.linkedin.com/in/muhammad-niko-kenara/)https://www.linkedin.com/in/muhammad-niko-kenara/ | Email : nikokenara@gmail.com
